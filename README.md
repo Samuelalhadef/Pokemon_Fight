@@ -108,7 +108,7 @@ Futures améliorations prévues :
 SAMUEL ALHADEF - [TWITTER](https://x.com/SAMUELALHADEF)
                - [LINKEDIN](https://www.linkedin.com/in/samuel-alhadef-190951257/)
 
-Lien du projet: [https://github.com/Samuelalhadef/Pokemon-Battle-Simulator](https://github.com/Samuelalhadef/Pokemon-Battle-Simulator)
+Lien du projet: [https://github.com/Samuelalhadef/Pokemon-Battle-Simulator](https://github.com/Samuelalhadef/Pokemon_Fight)
 
 ---
 <div align="center">
